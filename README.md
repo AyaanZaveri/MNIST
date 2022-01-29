@@ -3,4 +3,7 @@
 **Check it out:** https://huggingface.co/spaces/ayaanzaveri/mnist
 
 ## What is it?
-The number detector let's you input a number from 0 through 9.
+The number detector let's you input a number from 0 through 9. Then it predicts it.
+
+## How it works
+It uses the MNIST Dataset alongside a Convolutional Neural Network for accurate predections.
